@@ -20,4 +20,9 @@ Veri seti, **kredi kartı işlemleri** içerir ve her işlem için anonimleştir
 ✅ Daha büyük veri setleriyle modelin başarısı artırılabilir.  
 ✅ Gerçek zamanlı fraud tespiti için **API veya Dashboard** geliştirilebilir.  
 
+📌 **Veri Seti:**  
+Bu projede kullanılan veri setine aşağıdaki linkten ulaşabilirsiniz:  
+🔗 [Kaggle Veri Seti](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+
+
 
